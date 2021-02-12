@@ -1,0 +1,211 @@
+{
+    "1563464514844": {
+        "def": 0,
+        "list": [
+            {
+                "fields": [
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "mtBab EV",
+                        "dict_unique": "fb0f77abdb94fbf1858c533bbb7e9fc0",
+                        "fld_name": "Mặt trước",
+                        "fld_ord": 0,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": true
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "mtBab EV",
+                        "dict_unique": "fb0f77abdb94fbf1858c533bbb7e9fc0",
+                        "fld_name": "Mặt sau",
+                        "fld_ord": 1,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "mtBab EV",
+                        "dict_unique": "fb0f77abdb94fbf1858c533bbb7e9fc0",
+                        "fld_name": "Ví dụ",
+                        "fld_ord": 2,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    }
+                ],
+                "name": "Config 1"
+            }
+        ]
+    },
+    "1581930652131": {
+        "def": 0,
+        "list": [
+            {
+                "fields": [
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Word",
+                        "fld_ord": 0,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": true
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "IPA",
+                        "fld_ord": 1,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Sentence",
+                        "fld_ord": 2,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Definition",
+                        "fld_ord": 3,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Audio",
+                        "fld_ord": 4,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "mtBab EV",
+                        "dict_unique": "8733cb299f4e2538798202c535fb3811",
+                        "fld_name": "Vietnamese",
+                        "fld_ord": 5,
+                        "ignore": false,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Extrainfo",
+                        "fld_ord": 6,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Url",
+                        "fld_ord": 7,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Images",
+                        "dict_fld_ord": 2,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Picture",
+                        "fld_ord": 8,
+                        "ignore": false,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Examples",
+                        "dict_fld_ord": 5,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Description",
+                        "fld_ord": 9,
+                        "ignore": false,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Pictogram",
+                        "dict_fld_ord": 3,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Mnemonic",
+                        "fld_ord": 10,
+                        "ignore": false,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Definitions",
+                        "fld_ord": 11,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    }
+                ],
+                "name": "Config 1"
+            }
+        ]
+    },
+    "User 1_last": 1581930652131,
+    "dirs": [
+        "D:/OneDrive - my.smccd.edu/English_Vietnamese"
+    ],
+    "export_media": true,
+    "last_folder": "D:/OneDrive - my.smccd.edu/English_Vietnamese",
+    "last_model": 1581930652131,
+    "use_filename": true,
+    "version": "v2.0.0b"
+}
